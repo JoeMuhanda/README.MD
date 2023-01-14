@@ -1,6 +1,4 @@
-from flask import Flask, render_template, request
 
-app = Flask(__name__)
 
 # Set up database connection and initialize user list
 # (This is just for the example, you would typically store the users in a database)
